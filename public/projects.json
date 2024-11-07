@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "backgroundColor": "#FFFFFF",
+  "fontColor": "#000000",
+  "projects": [
+    {
+      "id": 1,
+      "title": "Majaliss",
+      "body": "Notre mission est de faciliter l'accès aux sciences religieuses en référençant tous les instituts de France dans un seul et même endroit afin que tu puisses les comparer entre eux et choisir celui qui te correspond vraiment !",
+      "link": "https://www.majaliss.io",
+      "analytics_id": "majaliss_1",
+      "image": "",
+      "backgroundColor": "#F0F0F0",
+      "isActive": true,
+      "startDate": "2024-01-01T00:00:00Z",
+      "endDate": "2024-12-31T23:59:59Z"
+    },
+    {
+      "id": 2,
+      "title": "Musc-Pay",
+      "body": "Chez Musc-Pay, nous pensons que tous les musulmans devraient pouvoir avoir accès à une solution de paiement qui fasse le lien entre leur croyance religieuse et les exigences de connectivité et de financement de la vie moderne.",
+      "link": "https://www.laymoon.fr/index.html",
+      "analytics_id": "Laymoon_2",
+      "image": "",
+      "backgroundColor": "#F0F0F0",
+      "isActive": true,
+      "startDate": "2024-02-01T00:00:00Z",
+      "endDate": null
+    },
+    {
+      "id": 3,
+      "title": "COOL HALAL",
+      "body": "Bienvenue sur COOL HALAL, votre partenaire privilégié pour une expérience de commande de produits halal en ligne.",
+      "link": "https://coolhalal.fr/",
+      "analytics_id": "Cool_halal_2",
+      "image": "",
+      "backgroundColor": "#F0F0F0",
+      "isActive": true,
+      "startDate": null,
+      "endDate": "2024-08-31T23:59:59Z"
+    }
+  ]
+}
